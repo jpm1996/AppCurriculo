@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "15634997316",
+    "firebase_url": "https://curriculo-589ca.firebaseio.com",
+    "project_id": "curriculo-589ca",
+    "storage_bucket": "curriculo-589ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15634997316:android:4821059f2dd16b4f6c1c11",
+        "android_client_info": {
+          "package_name": "com.studio.joao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15634997316-6nfdudfbpri9vbojp01afrb1j9bhp8tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbD-avq91rWyyJiGTtg1lXEGG519gzPQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15634997316-6nfdudfbpri9vbojp01afrb1j9bhp8tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
